@@ -11,7 +11,7 @@
 **Curs:** Sistemes Microinformàtics i Xarxes (SMX) — 2n any
 **GitHub:** [github.com/joanosunaa](https://github.com/joanosunaa)
 
-## 📋 Índex de la Defensa
+## Índex de la Defensa
 
 | #   | Part                                                        | Contingut                             |
 | --- | ----------------------------------------------------------- | ------------------------------------- |
@@ -25,7 +25,7 @@
 
 ## Part 1 — Perfil de GitHub
 
-🔗 **Perfil:** [github.com/joanosunaa](https://github.com/joanosunaa)
+**Perfil:** [github.com/joanosunaa](https://github.com/joanosunaa)
 
 ### Punts a explicar:
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🔍 Part 2 — Anàlisi de Projectes
+## Part 2 — Anàlisi de Projectes
 
 > _El tribunal seleccionarà dos repositoris. Estaré preparat per navegar-hi i explicar-los en detall._
 
@@ -53,9 +53,9 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-## 🛠️ Part 3 — Defensa Tècnica dels Projectes
+## Part 3 — Defensa Tècnica dels Projectes
 
-### 📦 Projecte 01 — Arranquem
+### Projecte 01 — Arranquem
 
 > _Documentació disponible a Google Drive (projecte inicial, anterior a l'ús de GitHub)_
 
@@ -65,7 +65,7 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-### 📊 Projecte 02 — Consultoria EverPia
+### Projecte 02 — Consultoria EverPia
 
 🔗 [github.com/joanosunaa/Projecte-2](https://github.com/joanosunaa/Projecte-2)
 
@@ -78,7 +78,7 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-### 📊 Projecte 03 — Consultoria EverPia 2
+### Projecte 03 — Consultoria EverPia 2
 
 🔗 [github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-](https://github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-)
 
@@ -91,22 +91,9 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-### 📊 Projecte 04 — Consultoria EverPia 3
+### Projecte 04 — Consultoria EverPia 3
 
-🔗 [github.com/joanosunaa/Projecte-04.-Desafiament-fina](https://github.com/joanosunaa/Projecte-04.-Desafiament-fina)
-
-- **Repte:** [Completar]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
-
----
-
-### 🌱 Projecte 05 — La Incubadora
-
-🔗 [github.com/classesSMX2n/projecte5-joanosunaa](https://github.com/classesSMX2n/projecte5-joanosunaa)
+[github.com/joanosunaa/Projecte-04.-Desafiament-fina](https://github.com/joanosunaa/Projecte-04.-Desafiament-fina)
 
 - **Repte:** [Completar]
 - **Solució proposada:** [Completar]
@@ -117,9 +104,9 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-### 🔗 Projecte 06 — Nexus
+### Projecte 05 — La Incubadora
 
-🔗 [github.com/classesSMX2n/projecte6-joanosunaa](https://github.com/classesSMX2n/projecte6-joanosunaa)
+[github.com/classesSMX2n/projecte5-joanosunaa](https://github.com/classesSMX2n/projecte5-joanosunaa)
 
 - **Repte:** [Completar]
 - **Solució proposada:** [Completar]
@@ -130,9 +117,22 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-### 🚛 Projecte 07 — Food Logístics S.A.
+### Projecte 06 — Nexus
 
-🔗 [github.com/classesSMX2n/projecte-7-joanosunaa](https://github.com/classesSMX2n/projecte-7-joanosunaa)
+[github.com/classesSMX2n/projecte6-joanosunaa](https://github.com/classesSMX2n/projecte6-joanosunaa)
+
+- **Repte:** [Completar]
+- **Solució proposada:** [Completar]
+- **Passos seguits:** [Completar]
+- **Evidències:** [README / informes / captures]
+- **Dificultats:** [Completar]
+- **Aprenentatges:** [Completar]
+
+---
+
+### Projecte 07 — Food Logístics S.A.
+
+[github.com/classesSMX2n/projecte-7-joanosunaa](https://github.com/classesSMX2n/projecte-7-joanosunaa)
 
 - **Repte:** [Completar]
 - **Solució proposada:** [Completar — viabilitat, infraestructura, etc.]
@@ -143,9 +143,9 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-### 📡 Projecte 08 — Connecta't al Futur: el repte de la digitalització real
+### Projecte 08 — Connecta't al Futur: el repte de la digitalització real
 
-🔗 [github.com/classesSMX2n/projecte-8-joanosunaa](https://github.com/classesSMX2n/projecte-8-joanosunaa)
+[github.com/classesSMX2n/projecte-8-joanosunaa](https://github.com/classesSMX2n/projecte-8-joanosunaa)
 
 - **Repte:** [Completar — digitalització d'una empresa real]
 - **Solució proposada:** [Completar]
@@ -156,7 +156,7 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-## 📐 Part 4 — Metodologia de Treball
+## Part 4 — Metodologia de Treball
 
 ### Eines de planificació utilitzades
 
@@ -182,16 +182,16 @@ Per a cada projecte seleccionat, explicaré:
 - Ús d'issues a GitHub per registrar problemes i solucions
 - Reorganització de prioritats quan apareixen imprevistos tècnics
 
-### 📌 Exemple real de planificació (evidència)
+### Exemple real de planificació (evidència)
 
 > **[Completar amb un exemple real]**
 > Per exemple: _"Al Projecte 06 (Nexus), la configuració del servei X va trigar el doble del previst. Vaig detectar el bloqueig al Kanban, vaig obrir un issue a GitHub i vaig reorganitzar les tasques per no retardar l'entrega."_
 
-🔗 Evidència: [Afegir link al Kanban, Gantt, issue o commit concret]
+Evidència: [Afegir link al Kanban, Gantt, issue o commit concret]
 
 ---
 
-## 🏁 Conclusions i Aprenentatges
+## Conclusions i Aprenentatges
 
 ### Què he après aquest curs
 
@@ -213,7 +213,7 @@ Per a cada projecte seleccionat, explicaré:
 
 ---
 
-## 📚 Documentació i Recursos
+## Documentació i Recursos
 
 | Recurs                            | Enllaç                                                                        |
 | --------------------------------- | ----------------------------------------------------------------------------- |
