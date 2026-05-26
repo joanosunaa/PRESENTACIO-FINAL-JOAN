@@ -1,231 +1,72 @@
-# PRESENTACIO-FINAL-JOAN-OSUNA
-
-> **Defensa individual del Projecte Intermodular**
-> Tribunal d'avaluació · CFGS SMX · 2024–2025
-
----
-
-## Presentació Personal
-
-**Nom:** Joan Osuna Ariza
-**Curs:** Sistemes Microinformàtics i Xarxes (SMX) — 2n any
-**GitHub:** [github.com/joanosunaa](https://github.com/joanosunaa)
-
-## Índex de la Defensa
-
-| #   | Part                                                        | Contingut                             |
-| --- | ----------------------------------------------------------- | ------------------------------------- |
-| 1   | [Perfil GitHub](#-part-1--perfil-de-github)                 | README, repositoris, organització     |
-| 2   | [Anàlisi de Projectes](#-part-2--anàlisi-de-projectes)      | 2 projectes seleccionats pel tribunal |
-| 3   | [Defensa Tècnica](#-part-3--defensa-tècnica-dels-projectes) | Tots els projectes del curs           |
-| 4   | [Metodologia](#-part-4--metodologia-de-treball)             | Kanban, Gantt, GitHub, seguiment      |
-| 5   | [Conclusions](#-conclusions-i-aprenentatges)                | Reflexió final i aprenentatges        |
+# Defensa del Projecte Intermodular 
+**Alumne:** Joan Osuna Ariza  
+**Perfil de GitHub:** [joanosunaa](https://github.com/joanosunaa)  
+[cite_start]**Durada de la defens:** 15 - 20 minuts [cite: 34]
 
 ---
 
-## Part 1 — Perfil de GitHub
+##  1. Presentació Personal i Esquema de la Defensa
+[cite_start]Benvinguts a la defensa individual del meu projecte intermodular davant del tribunal[cite: 4]. [cite_start]Durant aquesta exposició navegaré pel meu repositori de GitHub per demostrar les competències adquirides al llarg del curs, la capacitat de justificació de decisions tècniques i la resolució de problemes[cite: 30, 31, 32].
 
-**Perfil:** [github.com/joanosunaa](https://github.com/joanosunaa)
-
-### Punts a explicar:
-
-- 📄 **README personalitzat** del perfil: presentació, tecnologies, contacte
-- 🗂️ **Estructura general** dels repositoris del curs
-- ✅ **Repositoris principals** de cada projecte
-- 📁 **Organització de carpetes** i convencions de noms
-- 💬 **Qualitat dels commits**: missatges descriptius i freqüència
-- 📝 **Documentació** present en cada repositori (README, informes, etc.)
+### [cite_start] Esquema de la presentació[cite: 46]:
+1. [cite_start]**Introducció i estructura general del perfil de GitHub**[cite: 55, 59].
+2. [cite_start]**Anàlisi dels projectes realitzats** (Estructura, objectius i documentació)[cite: 50, 75].
+3. [cite_start]**Defensa tècnica** dels projectes seleccionats pel tribunal[cite: 85].
+4. [cite_start]**Metodologia de treball** (Gestió amb Kanban, Git/GitHub i desviacions del pla inicial)[cite: 144].
+5. [cite_start]**Conclusions i aprenentatges finals**[cite: 51].
 
 ---
 
-## Part 2 — Anàlisi de Projectes
-
-> _El tribunal seleccionarà dos repositoris. Estaré preparat per navegar-hi i explicar-los en detall._
-
-Per a cada projecte seleccionat, explicaré:
-
-- [ ] Estructura del repositori i carpetes
-- [ ] Resum de les tasques realitzades
-- [ ] Documentació i informes generats
-- [ ] Decisions tècniques preses
-- [ ] Problemes trobats i com es van resoldre
-- [ ] Passos seguits durant el desenvolupament
+## [cite_start] 2. Estructura General del Perfil de GitHub [cite: 59]
+* [cite_start]**Repositori Fil Conductor / Presentació:** [joanosunaa](https://github.com/joanosunaa) [cite: 41, 47]
+* [cite_start]**Ordre i claredat:** Estructura de carpetes endreçada, commits amb evidències clares de l'evolució del treball i documentació integrada en els fitxers README.md[cite: 63, 68].
 
 ---
 
-## Part 3 — Defensa Tècnica dels Projectes
+## [cite_start] 3. Repositoris i Projectes del Curs [cite: 60]
 
-### Projecte 01 — Arranquem
+[cite_start]A continuació es mostren els enllaços directes a la documentació i codi dels projectes realitzats[cite: 47, 48]:
 
-> _Documentació disponible a Google Drive (projecte inicial, anterior a l'ús de GitHub)_
+### [cite_start] Projecte 01: Arranquem [cite: 89]
+* **Estat:** Desenvolupat i documentat a Google Drive (disponible per a la seva consulta i explicació de fases).
 
-- **Repte:** Posada en marxa i configuració inicial de l'entorn de treball
-- **Solució:** [Completar amb detalls del projecte]
-- **Aprenentatges:** [Completar amb reflexió personal]
+### [cite_start] Consultoria EverPia (Projectes 02, 03 i 04) [cite: 90, 92, 93]
+* **Projecte 02:** [Anàlisi i Iniciació - Projecte-2](https://github.com/joanosunaa/Projecte-2)
+* **Projecte 03:** [Desenvolupat de la Consultoria - Everpia-PROJECTE-3](https://github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-)
+* **Projecte 04:** [Desafiament Final EverPia](https://github.com/joanosunaa/Projecte-04.-Desafiament-fina)
+* [cite_start]*En aquests blocs es va abordar la planificació organitzativa, auditories i propostes de consultoria per a l'empresa fictícia EverPia[cite: 100].*
 
----
+### [cite_start] Projecte 05: La incubadora [cite: 94]
+* **Repositori:** [Projecte 5 - La Incubadora](https://github.com/joanosunaa/projecte5-joanosunaa)
+* *Enfocat en el desplegament inicial, configuració de l'entorn i primeres etapes del cicle de vida del projecte.*
 
-### Projecte 02 — Consultoria EverPia
+### [cite_start] Projecte 06: Nexus [cite: 95]
+* **Repositori:** [Projecte 6 - Nexus](https://github.com/joanosunaa/projecte6-joanosunaa)
+* [cite_start]*Treball profund en la integració de sistemes i arquitectura de xarxa/serveis segons els requeriments tècnics[cite: 100].*
 
-🔗 [github.com/joanosunaa/Projecte-2](https://github.com/joanosunaa/Projecte-2)
+### [cite_start] Projecte 07: Food Logístics S.A. [cite: 96]
+* **Repositori Principal:** [Projecte 7 - Food Logístics](https://github.com/joanosunaa/projecte-7-joanosunaa)
+* **Repositori Web del Projecte:** [Web Food Logístics](https://github.com/joanosunaa/web-projecte7-joanosunaa)
+* [cite_start]*Estudi de viabilitat, automatització de processos de logística i gestió de la infraestructura de serveis[cite: 101].*
 
-- **Repte:** [Completar amb el problema inicial]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
-
----
-
-### Projecte 03 — Consultoria EverPia 2
-
-🔗 [github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-](https://github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-)
-
-- **Repte:** [Completar]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
+### [cite_start] Projecte 08: Connecta't al Futur: El repte de la digitalització real [cite: 97]
+* **Repositori:** [Projecte 8 - Digitalització Real](https://github.com/joanosunaa/projecte-8-joanosunaa)
+* [cite_start]*Projecte final d'integració on s'aplica la transformació digital real, resolent problemes complexos de connectivitat, monitoratge i seguretat[cite: 101].*
 
 ---
 
-### Projecte 04 — Consultoria EverPia 3
+## [cite_start]4. Metodologia de Treball i Gestió (OBLIGATORI) [cite: 143]
+[cite_start]Durant el desenvolupament de tots els projectes s'han aplicat metodologies àgils i bones pràctiques de control de versions[cite: 144]:
 
-[github.com/joanosunaa/Projecte-04.-Desafiament-fina](https://github.com/joanosunaa/Projecte-04.-Desafiament-fina)
-
-- **Repte:** [Completar]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
+* [cite_start]**Dividir el projecte en tasques:** Identificació de fases d'anàlisi, planificació, desenvolupament, proves, documentació i entrega[cite: 148, 149, 150].
+* [cite_start]**Tauler Kanban:** Classificació del flux de treball en columnes (*Pendent, En curs, En revisió, Finalitzat*)[cite: 151].
+* [cite_start]**Ús de Git i GitHub:** Documentació constant mitjançant commits descriptius, ús de branques per a noves funcionalitats i resolució d'issues[cite: 153].
+* [cite_start]**Gestió d'imprevistos (Exemple Real):** *(Nota per a en Joan: Durant la defensa, explica breument un cas on una tasca que semblava senzilla es va complicar, o com vau reorganitzar el Kanban/Gantt davant d'un error tècnic [cite: 155, 158, 159]).*
 
 ---
 
-### Projecte 05 — La Incubadora
+## [cite_start] 5. Conclusions i Aprenentatges [cite: 51]
+* [cite_start]**Consolidació tècnica:** Integració de serveis, automatització de tasques i monitoratge de sistemes[cite: 11].
+* [cite_start]**Gestió del temps:** Millora en la capacitat de reacció davant de desviacions de la planificació inicial[cite: 154].
+* [cite_start]**Qualitat del codi:** Importància de mantenir un codi net, una ment clara i un projecte fort per garantir la sostenibilitat dels repositoris[cite: 18, 213].
 
-[github.com/classesSMX2n/projecte5-joanosunaa](https://github.com/classesSMX2n/projecte5-joanosunaa)
-
-- **Repte:** [Completar]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
-
----
-
-### Projecte 06 — Nexus
-
-[github.com/classesSMX2n/projecte6-joanosunaa](https://github.com/classesSMX2n/projecte6-joanosunaa)
-
-- **Repte:** [Completar]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
-
----
-
-### Projecte 07 — Food Logístics S.A.
-
-[github.com/classesSMX2n/projecte-7-joanosunaa](https://github.com/classesSMX2n/projecte-7-joanosunaa)
-
-- **Repte:** [Completar]
-- **Solució proposada:** [Completar — viabilitat, infraestructura, etc.]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
-
----
-
-### Projecte 08 — Connecta't al Futur: el repte de la digitalització real
-
-[github.com/classesSMX2n/projecte-8-joanosunaa](https://github.com/classesSMX2n/projecte-8-joanosunaa)
-
-- **Repte:** [Completar — digitalització d'una empresa real]
-- **Solució proposada:** [Completar]
-- **Passos seguits:** [Completar]
-- **Evidències:** [README / informes / captures]
-- **Dificultats:** [Completar]
-- **Aprenentatges:** [Completar]
-
----
-
-## Part 4 — Metodologia de Treball
-
-### Eines de planificació utilitzades
-
-| Eina                  | Ús                                                             |
-| --------------------- | -------------------------------------------------------------- |
-| **Kanban**            | Gestió visual de tasques: Pendent → En curs → En revisió → Fet |
-| **Diagrama de Gantt** | Planificació temporal, durades i dependències                  |
-| **GitHub**            | Commits, branques, issues, README i evidències del procés      |
-
-### Com divideixo un projecte en tasques
-
-1. **Anàlisi** — Identificació del repte i requisits
-2. **Planificació** — Desglossar en tasques, assignar temps al Gantt
-3. **Desenvolupament** — Implementació seguint el Kanban
-4. **Proves** — Verificació i validació
-5. **Documentació** — README, informes, captures
-6. **Entrega** — Revisió final i push al GitHub
-
-### Seguiment i desviacions
-
-- Revisió periòdica del tauler Kanban per detectar bloquejos
-- Actualització del Gantt quan una tasca s'allarga
-- Ús d'issues a GitHub per registrar problemes i solucions
-- Reorganització de prioritats quan apareixen imprevistos tècnics
-
-### Exemple real de planificació (evidència)
-
-> **[Completar amb un exemple real]**
-> Per exemple: _"Al Projecte 06 (Nexus), la configuració del servei X va trigar el doble del previst. Vaig detectar el bloqueig al Kanban, vaig obrir un issue a GitHub i vaig reorganitzar les tasques per no retardar l'entrega."_
-
-Evidència: [Afegir link al Kanban, Gantt, issue o commit concret]
-
----
-
-## Conclusions i Aprenentatges
-
-### Què he après aquest curs
-
-- [Completar — ex: gestió de serveis en xarxa, documentació tècnica...]
-- [Completar — ex: treball en equip, metodologies àgils...]
-- [Completar — ex: resolució de problemes reals en entorns empresarials...]
-
-### Competències tècniques desenvolupades
-
-- [ ] Administració de sistemes i xarxes
-- [ ] Documentació tècnica amb Markdown i GitHub
-- [ ] Planificació de projectes amb Kanban i Gantt
-- [ ] Consultoria tecnològica i anàlisi de viabilitat
-- [ ] [Afegir més segons els teus projectes]
-
-### Reflexió personal
-
-> _[Escriu aquí 3-4 frases sinceres sobre la teva evolució al llarg del curs, els projectes que t'han aportat més, i com et sents de preparat per al món professional.]_
-
----
-
-## Documentació i Recursos
-
-| Recurs                            | Enllaç                                                                        |
-| --------------------------------- | ----------------------------------------------------------------------------- |
-| Perfil GitHub                     | [github.com/joanosunaa](https://github.com/joanosunaa)                        |
-| Projecte 02 — EverPia             | [Repositori](https://github.com/joanosunaa/Projecte-2)                        |
-| Projecte 03 — EverPia 2           | [Repositori](https://github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-) |
-| Projecte 04 — EverPia 3           | [Repositori](https://github.com/joanosunaa/Projecte-04.-Desafiament-fina)     |
-| Projecte 05 — La Incubadora       | [Repositori](https://github.com/classesSMX2n/projecte5-joanosunaa)            |
-| Projecte 06 — Nexus               | [Repositori](https://github.com/classesSMX2n/projecte6-joanosunaa)            |
-| Projecte 07 — Food Logístics      | [Repositori](https://github.com/classesSMX2n/projecte-7-joanosunaa)           |
-| Projecte 08 — Connecta't al Futur | [Repositori](https://github.com/classesSMX2n/projecte-8-joanosunaa)           |
-
----
-
-_Preparat per la defensa · Joan Osuna Ariza · SMX 2n · 2024–2025_
