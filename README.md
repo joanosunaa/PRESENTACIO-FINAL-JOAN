@@ -1,7 +1,7 @@
 # Defensa del Projecte Intermodular 
 **Alumne:** Joan Osuna Ariza  
 **Perfil de GitHub:** [joanosunaa](https://github.com/joanosunaa)  
-**Durada de la defens:** 15 - 20 minuts [cite: 34]
+**Durada de la defens:** 15 - 20 minuts 
 
 ---
 
