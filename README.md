@@ -53,15 +53,6 @@ A continuació es mostren els enllaços directes a la documentació i codi dels 
 * **Repositori:** [Projecte 8 - Digitalització Real](https://github.com/joanosunaa/projecte-8-joanosunaa)
 * *Projecte final d'integració on s'aplica la transformació digital real, resolent problemes complexos de connectivitat, monitoratge i seguretat.*
 
----
-
-## 4. Metodologia de Treball i Gestió (OBLIGATORI) 
-Durant el desenvolupament de tots els projectes s'han aplicat metodologies àgils i bones pràctiques de control de versions:
-
-* **Dividir el projecte en tasques:** Identificació de fases d'anàlisi, planificació, desenvolupament, proves, documentació i entrega.
-* **Tauler Kanban:** Classificació del flux de treball en columnes (*Pendent, En curs, En revisió, Finalitzat*).
-* **Ús de Git i GitHub:** Documentació constant mitjançant commits descriptius, ús de branques per a noves funcionalitats i resolució d'issues.
-* **Gestió d'imprevistos (Exemple Real):** *(Nota per a en Joan: Durant la defensa, explica breument un cas on una tasca que semblava senzilla es va complicar, o com vau reorganitzar el Kanban/Gantt davant d'un error tècnic .*
 
 ---
 
