@@ -25,7 +25,7 @@ Benvinguts a la defensa individual del meu projecte intermodular davant del trib
 
 ##  3. Repositoris i Projectes del Curs
 
-[cite_start]A continuació es mostren els enllaços directes a la documentació i codi dels projectes realitzats[cite: 47, 48]:
+A continuació es mostren els enllaços directes a la documentació i codi dels projectes realitzats:
 
 ###  Projecte 01: Arranquem
 * **Estat:** Desenvolupat i documentat a Google Drive (disponible per a la seva consulta i explicació de fases).
