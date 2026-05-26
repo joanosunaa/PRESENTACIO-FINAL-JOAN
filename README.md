@@ -6,9 +6,9 @@
 ---
 
 ##  1. Presentació Personal i Esquema de la Defensa
-[cite_start]Benvinguts a la defensa individual del meu projecte intermodular davant del tribunal[cite: 4]. [cite_start]Durant aquesta exposició navegaré pel meu repositori de GitHub per demostrar les competències adquirides al llarg del curs, la capacitat de justificació de decisions tècniques i la resolució de problemes[cite: 30, 31, 32].
+Benvinguts a la defensa individual del meu projecte intermodular davant del tribunal[cite: 4]. [cite_start]Durant aquesta exposició navegaré pel meu repositori de GitHub per demostrar les competències adquirides al llarg del curs, la capacitat de justificació de decisions tècniques i la resolució de problemes.
 
-###  Esquema de la presentació[cite: 46]:
+###  Esquema de la presentació:
 1. **Introducció i estructura general del perfil de GitHub**.
 2. **Anàlisi dels projectes realitzats** (Estructura, objectius i documentació).
 3. **Defensa tècnica** dels projectes seleccionats pel tribunal.
