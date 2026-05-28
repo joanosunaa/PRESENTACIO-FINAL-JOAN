@@ -66,7 +66,7 @@ A continuació es mostren els enllaços directes a la documentació i codi dels 
 
 ---
 
-## 5. Conclusions i Aprenentatges 
+## 4. Conclusions i Aprenentatges 
 * **Consolidació tècnica:** Integració de serveis, automatització de tasques i monitoratge de sistemes.
 * **Gestió del temps:** Millora en la capacitat de reacció davant de desviacions de la planificació inicial.
 * **Qualitat del codi:** Importància de mantenir un codi net, una ment clara i un projecte fort per garantir la sostenibilitat dels repositoris.
