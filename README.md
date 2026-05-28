@@ -30,24 +30,34 @@ A continuació es mostren els enllaços directes a la documentació i codi dels 
 * **Estat:** Desenvolupat i documentat a Google Drive (disponible per a la seva consulta i explicació de fases).
 * **PLANNER**: [Planner Projecte1 Arranquem](https://planner.cloud.microsoft/webui/plan/WC0fwK3Rm0Oz1_3fX87MQZYAAht2/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 
+---
+
 ### Consultoria EverPia (Projectes 02, 03 i 04) 
 * **Projecte 02:** [Anàlisi i Iniciació - Projecte-2](https://github.com/joanosunaa/Projecte-2)  | [Projecte 02 Analisi i inicialització](https://planner.cloud.microsoft/webui/plan/eomxFDccQEOaePRyCRwIeJYAE7Pk/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 * **Projecte 03:** [Desenvolupat de la Consultoria - Everpia-PROJECTE-3](https://github.com/joanosunaa/ConsultorIa-2-Everpia-PROJECTE-3-)  | [Projecte 03: Desenvolupat de la Consultoria](https://planner.cloud.microsoft/webui/plan/MK_0bJrB0kKmi8dpkosxZ5YAGYyu/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 * **Projecte 04:** [Desafiament Final EverPia](https://github.com/joanosunaa/Projecte-04.-Desafiament-fina) | [Projecte 04: Desafiament Final EverPia](https://planner.cloud.microsoft/webui/plan/SSPArnIx8ESoeNSiX74BzZYAFpHE/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 * *En aquests blocs es va abordar la planificació organitzativa, auditories i propostes de consultoria per a l'empresa fictícia EverPia.*
 
+---
+
 ###  Projecte 05: La incubadora
 * **Repositori:** [Projecte 5 - La Incubadora](https://github.com/joanosunaa/projecte5-joanosunaa)
 * *Enfocat en el desplegament inicial, configuració de l'entorn i primeres etapes del cicle de vida del projecte.*
+
+---
 
 ### Projecte 06: Nexus 
 * **Repositori:** [Projecte 6 - Nexus](https://github.com/joanosunaa/projecte6-joanosunaa)
   *Treball profund en la integració de sistemes i arquitectura de xarxa/serveis segons els requeriments tècnics.*
 
+---
+
 ###  Projecte 07: Food Logístics S.A. 
 * **Repositori Principal:** [Projecte 7 - Food Logístics](https://github.com/joanosunaa/projecte-7-joanosunaa)
 * **Repositori Web del Projecte:** [Web Food Logístics](https://github.com/joanosunaa/web-projecte7-joanosunaa)
 * *Estudi de viabilitat, automatització de processos de logística i gestió de la infraestructura de serveis.*
+
+---
 
 ###  Projecte 08: Connecta't al Futur: El repte de la digitalització real.
 * **Repositori:** [Projecte 8 - Digitalització Real](https://github.com/joanosunaa/projecte-8-joanosunaa)
