@@ -48,7 +48,7 @@ A continuació es mostren els enllaços directes a la documentació i codi dels 
 
 ### Projecte 06: Nexus 
 * **Repositori:** [Projecte 6 - Nexus](https://github.com/joanosunaa/projecte6-joanosunaa)
-  *Treball profund en la integració de sistemes i arquitectura de xarxa/serveis segons els requeriments tècnics.*
+* *Treball profund en la integració de sistemes i arquitectura de xarxa/serveis segons els requeriments tècnics.*
 
 ---
 
