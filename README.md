@@ -29,6 +29,7 @@ A continuació es mostren els enllaços directes a la documentació i codi dels 
 
 ###  Projecte 01: Arranquem
 * **Estat:** Desenvolupat i documentat a Google Drive (disponible per a la seva consulta i explicació de fases).
+* **PLANNER**: [Planner Projecte1 Arranquem](https://planner.cloud.microsoft/webui/plan/WC0fwK3Rm0Oz1_3fX87MQZYAAht2/view/board?tid=c7b5981a-7820-4ac8-ae65-03515ea81317)
 
 ### Consultoria EverPia (Projectes 02, 03 i 04) 
 * **Projecte 02:** [Anàlisi i Iniciació - Projecte-2](https://github.com/joanosunaa/Projecte-2)
