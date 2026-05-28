@@ -5,7 +5,7 @@
 ---
 
 ##  1. Presentació Personal i Esquema de la Defensa
-Benvinguts a la defensa individual del meu projecte intermodular davant del tribunal[cite: 4]. [cite_start]Durant aquesta exposició navegaré pel meu repositori de GitHub per demostrar les competències adquirides al llarg del curs, la capacitat de justificació de decisions tècniques i la resolució de problemes.
+Benvinguts a la defensa individual del meu projecte intermodular davant del tribunal.Durant aquesta exposició navegaré pel meu repositori de GitHub per demostrar les competències adquirides al llarg del curs, la capacitat de justificació de decisions tècniques i la resolució de problemes.
 
 ###  Esquema de la presentació:
 1. **Introducció i estructura general del perfil de GitHub**.
