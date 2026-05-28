@@ -18,7 +18,7 @@ Benvinguts a la defensa individual del meu projecte intermodular davant del trib
 ---
 
 ## 2. Estructura General del Perfil de GitHub 
-* **Repositori Fil Conductor / Presentació:** [joanosunaa](https://github.com/joanosunaa) 
+* **Repositori Fil Conductor / Presentació:** [joanosunaa](https://github.com/joanosunaa/Joan-Osuna/blob/main/README.md) 
 * **Ordre i claredat:** Estructura de carpetes endreçada, commits amb evidències clares de l'evolució del treball i documentació integrada en els fitxers README.md
 
 ---
