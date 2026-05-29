@@ -54,7 +54,7 @@ A continuació es mostren els enllaços directes a la documentació i codi dels 
 
 ###  Projecte 07: Food Logístics S.A. 
 * **Repositori Principal:** [Projecte 7 - Food Logístics](https://github.com/joanosunaa/projecte-7-joanosunaa)
-* **Repositori Web del Projecte:** [Web Food Logístics](https://github.com/joanosunaa/web-projecte7-joanosunaa)
+* **Repositori Web del Projecte:** [Web Food Logístics](https://joanosunaa.github.io/Web-corporativa/)
 * *Estudi de viabilitat, automatització de processos de logística i gestió de la infraestructura de serveis.*
 
 ---
